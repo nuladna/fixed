@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d81e2a8-962a-4f1d-bca3-f03201335b6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OBTBM5ebEfvGBWuvF6xwvhkiiu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/libs/wow" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\libs\wow" />
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\css" />
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\images\single" />
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\libs\fancybox" />
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\libs\jquery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\images\footer" />
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\images\cases" />
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\images\transition" />
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\images\customers" />
+      <recent name="C:\Users\Admin\Desktop\Untitled\src\images\devices" />
+    </key>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d81e2a8-962a-4f1d-bca3-f03201335b6b" name="Default Changelist" comment="" />
+      <created>1681032838376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681032838376</updated>
+      <workItem from="1681032839733" duration="4726000" />
+      <workItem from="1681318834154" duration="9000" />
+      <workItem from="1681318860789" duration="3375000" />
+      <workItem from="1681490626880" duration="4641000" />
+      <workItem from="1681538436714" duration="5297000" />
+      <workItem from="1681571641328" duration="4111000" />
+      <workItem from="1681624868181" duration="6272000" />
+      <workItem from="1682003167273" duration="668000" />
+      <workItem from="1682003899633" duration="2285000" />
+      <workItem from="1682230365254" duration="2192000" />
+      <workItem from="1682436840218" duration="320000" />
+      <workItem from="1682437227298" duration="1069000" />
+      <workItem from="1682752709474" duration="2163000" />
+      <workItem from="1682755139383" duration="2321000" />
+      <workItem from="1682785734148" duration="5728000" />
+      <workItem from="1682833144214" duration="1186000" />
+      <workItem from="1682838707140" duration="774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1681032935321">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="617" y="308" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1681032935321" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1681321521399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1681321521399" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1681627514476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1681627514476" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1681627777708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1681627777708" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1681490636923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1681490636923" />
+  </component>
+</project>
